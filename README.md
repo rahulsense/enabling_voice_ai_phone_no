@@ -14,7 +14,7 @@ When a new agency phone number is created, it does not automatically appear in t
 2. Go to **Agency Configs**
 3. Select **Chatbot** section
 4. Update the **Retell Call Number** field with the newly created agency phone number
-5. Save the configuration
+5. Update the configuration
 
 ![Agency Config - Retell Call Number Update](https://github.com/user-attachments/assets/37b25fda-d2af-4f6c-bf5a-bad5fe9e42b7)
 
